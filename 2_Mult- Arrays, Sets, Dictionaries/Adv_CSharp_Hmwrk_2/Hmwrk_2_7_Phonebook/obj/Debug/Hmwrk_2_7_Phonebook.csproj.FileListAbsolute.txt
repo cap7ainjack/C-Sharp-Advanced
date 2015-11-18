@@ -1,0 +1,6 @@
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_7_Phonebook\bin\Debug\Hmwrk_2_7_Phonebook.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_7_Phonebook\obj\Debug\Hmwrk_2_7_Phonebook.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_7_Phonebook\bin\Debug\Hmwrk_2_7_Phonebook.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_7_Phonebook\bin\Debug\Hmwrk_2_7_Phonebook.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_7_Phonebook\obj\Debug\Hmwrk_2_7_Phonebook.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_7_Phonebook\obj\Debug\Hmwrk_2_7_Phonebook.pdb

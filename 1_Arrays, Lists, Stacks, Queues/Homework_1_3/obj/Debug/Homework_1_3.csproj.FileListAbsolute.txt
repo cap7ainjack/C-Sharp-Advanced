@@ -1,0 +1,9 @@
+c:\users\user17\documents\visual studio 2013\Projects\Adv_CSharp_homework\Homework_1_3\bin\Debug\Homework_1_3.exe.config
+C:\Users\user17\Documents\Visual Studio 2013\Projects\Adv_CSharp_homework\Homework_1_3\bin\Debug\Homework_1_3.exe
+C:\Users\user17\Documents\Visual Studio 2013\Projects\Adv_CSharp_homework\Homework_1_3\bin\Debug\Homework_1_3.pdb
+C:\Users\user17\Documents\Visual Studio 2013\Projects\Adv_CSharp_homework\Homework_1_3\obj\Debug\Homework_1_3.csprojResolveAssemblyReference.cache
+C:\Users\user17\Documents\Visual Studio 2013\Projects\Adv_CSharp_homework\Homework_1_3\obj\Debug\Homework_1_3.exe
+C:\Users\user17\Documents\Visual Studio 2013\Projects\Adv_CSharp_homework\Homework_1_3\obj\Debug\Homework_1_3.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\1_Arrays, Lists, Stacks, Queues\Homework_1_3\bin\Debug\Homework_1_3.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\1_Arrays, Lists, Stacks, Queues\Homework_1_3\obj\Debug\Homework_1_3.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\1_Arrays, Lists, Stacks, Queues\Homework_1_3\obj\Debug\Homework_1_3.pdb

@@ -1,0 +1,3 @@
+c:\users\user17\documents\visual studio 2013\Projects\Adv_CSharp_homework\Homework_1_2\bin\Debug\Homework_1_2.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Homework_1_2\bin\Debug\Homework_1_2.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\1_Arrays, Lists, Stacks, Queues\Homework_1_2\bin\Debug\Homework_1_2.exe.config

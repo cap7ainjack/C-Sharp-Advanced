@@ -1,0 +1,6 @@
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_3_M_shuffling\bin\Debug\Hmwrk_2_3_M_shuffling.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_3_M_shuffling\bin\Debug\Hmwrk_2_3_M_shuffling.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_3_M_shuffling\bin\Debug\Hmwrk_2_3_M_shuffling.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_3_M_shuffling\obj\Debug\Hmwrk_2_3_M_shuffling.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_3_M_shuffling\obj\Debug\Hmwrk_2_3_M_shuffling.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_3_M_shuffling\obj\Debug\Hmwrk_2_3_M_shuffling.pdb

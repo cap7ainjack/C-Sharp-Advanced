@@ -1,0 +1,2 @@
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Arrays_training_in_Class\bin\Debug\Arrays_training_in_Class.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\1_Arrays, Lists, Stacks, Queues\Arrays_training_in_Class\bin\Debug\Arrays_training_in_Class.exe.config

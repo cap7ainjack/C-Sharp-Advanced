@@ -1,0 +1,6 @@
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_1_Fill_matrix\bin\Debug\Hmwrk_2_1_Fill_matrix.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_1_Fill_matrix\bin\Debug\Hmwrk_2_1_Fill_matrix.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_1_Fill_matrix\bin\Debug\Hmwrk_2_1_Fill_matrix.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_1_Fill_matrix\obj\Debug\Hmwrk_2_1_Fill_matrix.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_1_Fill_matrix\obj\Debug\Hmwrk_2_1_Fill_matrix.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_1_Fill_matrix\obj\Debug\Hmwrk_2_1_Fill_matrix.pdb

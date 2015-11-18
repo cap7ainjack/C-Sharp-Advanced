@@ -1,0 +1,6 @@
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\6_Streams\Training_in_class\bin\Debug\Training_in_class.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\6_Streams\Training_in_class\bin\Debug\Training_in_class.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\6_Streams\Training_in_class\bin\Debug\Training_in_class.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\6_Streams\Training_in_class\obj\Debug\Training_in_class.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\6_Streams\Training_in_class\obj\Debug\Training_in_class.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\6_Streams\Training_in_class\obj\Debug\Training_in_class.pdb

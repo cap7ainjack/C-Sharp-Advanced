@@ -1,0 +1,6 @@
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\2_0_Snake_matrix\bin\Debug\2_0_Snake_matrix.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\2_0_Snake_matrix\bin\Debug\2_0_Snake_matrix.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\2_0_Snake_matrix\bin\Debug\2_0_Snake_matrix.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\2_0_Snake_matrix\obj\Debug\2_0_Snake_matrix.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\2_0_Snake_matrix\obj\Debug\2_0_Snake_matrix.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\2_0_Snake_matrix\obj\Debug\2_0_Snake_matrix.pdb

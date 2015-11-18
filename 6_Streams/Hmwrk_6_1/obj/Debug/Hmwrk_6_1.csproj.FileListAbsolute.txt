@@ -1,0 +1,6 @@
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\6_Streams\Hmwrk_6_1\bin\Debug\Hmwrk_6_1.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\6_Streams\Hmwrk_6_1\bin\Debug\Hmwrk_6_1.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\6_Streams\Hmwrk_6_1\bin\Debug\Hmwrk_6_1.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\6_Streams\Hmwrk_6_1\obj\Debug\Hmwrk_6_1.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\6_Streams\Hmwrk_6_1\obj\Debug\Hmwrk_6_1.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\6_Streams\Hmwrk_6_1\obj\Debug\Hmwrk_6_1.pdb

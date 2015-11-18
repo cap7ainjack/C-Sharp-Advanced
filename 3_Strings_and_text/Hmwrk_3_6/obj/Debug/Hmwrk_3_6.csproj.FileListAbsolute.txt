@@ -1,0 +1,6 @@
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\3_Strings_and_text\Hmwrk_3_6\bin\Debug\Hmwrk_3_6.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\3_Strings_and_text\Hmwrk_3_6\bin\Debug\Hmwrk_3_6.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\3_Strings_and_text\Hmwrk_3_6\bin\Debug\Hmwrk_3_6.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\3_Strings_and_text\Hmwrk_3_6\obj\Debug\Hmwrk_3_6.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\3_Strings_and_text\Hmwrk_3_6\obj\Debug\Hmwrk_3_6.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\3_Strings_and_text\Hmwrk_3_6\obj\Debug\Hmwrk_3_6.csprojResolveAssemblyReference.cache

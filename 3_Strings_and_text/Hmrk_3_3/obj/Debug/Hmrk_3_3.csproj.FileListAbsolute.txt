@@ -1,0 +1,6 @@
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\3_Strings_and_text\Hmrk_3_3\bin\Debug\Hmrk_3_3.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\3_Strings_and_text\Hmrk_3_3\bin\Debug\Hmrk_3_3.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\3_Strings_and_text\Hmrk_3_3\bin\Debug\Hmrk_3_3.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\3_Strings_and_text\Hmrk_3_3\obj\Debug\Hmrk_3_3.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\3_Strings_and_text\Hmrk_3_3\obj\Debug\Hmrk_3_3.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\3_Strings_and_text\Hmrk_3_3\obj\Debug\Hmrk_3_3.pdb

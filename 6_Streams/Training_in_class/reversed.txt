@@ -1,0 +1,93 @@
+;metsyS gnisu
+;cireneG.snoitcelloC.metsyS gnisu
+;qniL.metsyS gnisu
+;txeT.metsyS gnisu
+;sksaT.gnidaerhT.metsyS gnisu
+;OI.metsyS gnisu
+;teN.metsyS gnisu
+;stekcoS.teN.metsyS gnisu
+;lmX.metsyS gnisu
+
+ssalc_ni_gniniarT ecapseman
+{
+margorP ssalc    
+{    
+;8080 = muNtrop tni tsnoc  //      
+
+)(niaM diov citats        
+{        
+
+///////////retirw redaer/////////////////////////            
+
+))"sc.margorP/../.."(redaeRmaertS wen = redaer rav( gnisu            
+{            
+))"txt.desrever/../.."(retirWmaertS wen = retirw rav( gnisu                
+{                
+;)(eniLdaeR.redaer = enil gnirts                    
+)llun =! enil( elihw                    
+{                    
+)--i ;0 => i ;htgneL.enil = i tni( rof                        
+{                        
+;)]i[enil(etirW.retirw                            
+}                        
+;)(eniLetirW.retirw                        
+;)(eniLdaeR.redaer = enil                        
+}                    
+}                
+}            
+
+
+
+
+=======================================================================//
+;)muNtrop,ynA.sserddAPI(renetsiLpcT wen = renetsiLpct rav//            
+;)(tratS.renetsiLpct//            
+
+;)muNtrop,"}0{...trop no gninetsiL"(eniLetirW.elosnoC//            
+
+)eurt( elihw//            
+{//            
+))(maertSteG.)(tneilCpcTtpeccA.renetsiLpct = maerts maertSkrowteN( gnisu    //            
+{    //            
+;]6904[etyb wen = tseuqer ][etyb        //            
+;)6904 ,0 ,tseuqer(daeR.maerts        //            
+;))tseuqer(gnirtSteG.8FTU.gnidocnE(eniLetirW.elosnoC        //            
+
+,"}0{ }1{ }2{ }4{ - }3{ }2{ }1{ }0{"(tamroF.gnirts = lmth gnirts        //            
+;)woN.emiTetaD ,"!eetis ym ot emocleW" ,">1h<" ,">ydob<" ,">lmth<"            //            
+
+;)lmth(setyBteG.8FTU.gnidocnE = setyBlmth ][etyb        //            
+;)htgneL.setyBlmth,0,setyBlmth(etirW.maerts        //            
+
+}    //            
+}//            
+
+
+======================================================================================================//       
+
+;"no kcoR !yrt tsriF" = txet gnirts//            
+
+;)dneppA.edoMeliF,"txt.gol/../.."(maertSeliF wen = maerts maertSeliF//            
+
+yrt//            
+{//            
+;)txet(setyBteG.8FTU.gnidocnE = setyb ][etyb    //            
+;)htgneL.setyb,0,setyb(etirW.maerts    //            
+}//            
+yllanif//            
+{//            
+                
+;)(esolC.maerts    //            
+}//            
+
+
+          
+            
+
+
+
+
+
+}        
+}    
+}

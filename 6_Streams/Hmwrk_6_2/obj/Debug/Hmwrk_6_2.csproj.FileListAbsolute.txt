@@ -1,0 +1,5 @@
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\6_Streams\Hmwrk_6_2\bin\Debug\Hmwrk_6_2.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\6_Streams\Hmwrk_6_2\bin\Debug\Hmwrk_6_2.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\6_Streams\Hmwrk_6_2\bin\Debug\Hmwrk_6_2.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\6_Streams\Hmwrk_6_2\obj\Debug\Hmwrk_6_2.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\6_Streams\Hmwrk_6_2\obj\Debug\Hmwrk_6_2.pdb

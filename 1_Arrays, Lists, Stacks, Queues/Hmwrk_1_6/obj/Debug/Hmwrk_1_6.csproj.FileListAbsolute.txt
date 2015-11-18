@@ -1,0 +1,15 @@
+C:\Users\user17\Documents\Visual Studio 2013\Projects\Adv_CSharp_homework\Hmwrk_1_6\bin\Debug\Hmwrk_1_6.exe.config
+C:\Users\user17\Documents\Visual Studio 2013\Projects\Adv_CSharp_homework\Hmwrk_1_6\bin\Debug\Hmwrk_1_6.exe
+C:\Users\user17\Documents\Visual Studio 2013\Projects\Adv_CSharp_homework\Hmwrk_1_6\bin\Debug\Hmwrk_1_6.pdb
+C:\Users\user17\Documents\Visual Studio 2013\Projects\Adv_CSharp_homework\Hmwrk_1_6\obj\Debug\Hmwrk_1_6.csprojResolveAssemblyReference.cache
+C:\Users\user17\Documents\Visual Studio 2013\Projects\Adv_CSharp_homework\Hmwrk_1_6\obj\Debug\Hmwrk_1_6.exe
+C:\Users\user17\Documents\Visual Studio 2013\Projects\Adv_CSharp_homework\Hmwrk_1_6\obj\Debug\Hmwrk_1_6.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Hmwrk_1_6\bin\Debug\Hmwrk_1_6.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Hmwrk_1_6\obj\Debug\Hmwrk_1_6.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Hmwrk_1_6\obj\Debug\Hmwrk_1_6.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Hmwrk_1_6\bin\Debug\Hmwrk_1_6.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Hmwrk_1_6\bin\Debug\Hmwrk_1_6.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Hmwrk_1_6\obj\Debug\Hmwrk_1_6.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\1_Arrays, Lists, Stacks, Queues\Hmwrk_1_6\bin\Debug\Hmwrk_1_6.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\1_Arrays, Lists, Stacks, Queues\Hmwrk_1_6\obj\Debug\Hmwrk_1_6.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\1_Arrays, Lists, Stacks, Queues\Hmwrk_1_6\obj\Debug\Hmwrk_1_6.pdb

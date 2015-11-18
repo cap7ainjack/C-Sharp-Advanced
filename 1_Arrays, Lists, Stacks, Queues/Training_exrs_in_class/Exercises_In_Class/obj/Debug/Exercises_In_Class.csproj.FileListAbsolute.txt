@@ -1,0 +1,6 @@
+c:\users\user17\documents\visual studio 2013\Projects\ConsoleApplication1\Exercises_In_Class\obj\Debug\Exercises_In_Class.csprojResolveAssemblyReference.cache
+c:\users\user17\documents\visual studio 2013\Projects\ConsoleApplication1\Exercises_In_Class\bin\Debug\Exercises_In_Class.exe.config
+c:\users\user17\documents\visual studio 2013\Projects\ConsoleApplication1\Exercises_In_Class\bin\Debug\Exercises_In_Class.exe
+c:\users\user17\documents\visual studio 2013\Projects\ConsoleApplication1\Exercises_In_Class\bin\Debug\Exercises_In_Class.pdb
+c:\users\user17\documents\visual studio 2013\Projects\ConsoleApplication1\Exercises_In_Class\obj\Debug\Exercises_In_Class.exe
+c:\users\user17\documents\visual studio 2013\Projects\ConsoleApplication1\Exercises_In_Class\obj\Debug\Exercises_In_Class.pdb

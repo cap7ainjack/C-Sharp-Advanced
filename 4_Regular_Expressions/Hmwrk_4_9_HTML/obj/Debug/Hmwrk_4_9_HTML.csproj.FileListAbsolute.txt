@@ -1,0 +1,6 @@
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\4_Regular_Expressions\Hmwrk_4_9_HTML\bin\Debug\Hmwrk_4_9_HTML.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\4_Regular_Expressions\Hmwrk_4_9_HTML\obj\Debug\Hmwrk_4_9_HTML.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\4_Regular_Expressions\Hmwrk_4_9_HTML\bin\Debug\Hmwrk_4_9_HTML.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\4_Regular_Expressions\Hmwrk_4_9_HTML\bin\Debug\Hmwrk_4_9_HTML.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\4_Regular_Expressions\Hmwrk_4_9_HTML\obj\Debug\Hmwrk_4_9_HTML.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\4_Regular_Expressions\Hmwrk_4_9_HTML\obj\Debug\Hmwrk_4_9_HTML.pdb

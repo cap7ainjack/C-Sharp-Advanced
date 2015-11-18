@@ -1,0 +1,9 @@
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Exercies_in_Class_1_1\bin\Debug\Exercies_in_Class_1_1.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Exercies_in_Class_1_1\obj\Debug\Exercies_in_Class_1_1.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Exercies_in_Class_1_1\bin\Debug\Exercies_in_Class_1_1.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Exercies_in_Class_1_1\bin\Debug\Exercies_in_Class_1_1.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Exercies_in_Class_1_1\obj\Debug\Exercies_in_Class_1_1.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Exercies_in_Class_1_1\obj\Debug\Exercies_in_Class_1_1.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\1_Arrays, Lists, Stacks, Queues\Exercies_in_Class_1_1\bin\Debug\Exercies_in_Class_1_1.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\1_Arrays, Lists, Stacks, Queues\Exercies_in_Class_1_1\obj\Debug\Exercies_in_Class_1_1.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\1_Arrays, Lists, Stacks, Queues\Exercies_in_Class_1_1\obj\Debug\Exercies_in_Class_1_1.pdb

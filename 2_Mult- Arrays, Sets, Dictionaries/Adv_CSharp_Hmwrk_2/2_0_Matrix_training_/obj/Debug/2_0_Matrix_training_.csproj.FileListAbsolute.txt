@@ -1,0 +1,12 @@
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Multidimensional Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\2_0_Matrix_training_\bin\Debug\2_0_Matrix_training_.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Multidimensional Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\2_0_Matrix_training_\bin\Debug\2_0_Matrix_training_.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Multidimensional Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\2_0_Matrix_training_\bin\Debug\2_0_Matrix_training_.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Multidimensional Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\2_0_Matrix_training_\obj\Debug\2_0_Matrix_training_.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Multidimensional Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\2_0_Matrix_training_\obj\Debug\2_0_Matrix_training_.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Multidimensional Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\2_0_Matrix_training_\obj\Debug\2_0_Matrix_training_.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\2_0_Matrix_training_\bin\Debug\2_0_Matrix_training_.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\2_0_Matrix_training_\obj\Debug\2_0_Matrix_training_.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\2_0_Matrix_training_\obj\Debug\2_0_Matrix_training_.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\2_0_Matrix_training_\bin\Debug\2_0_Matrix_training_.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\2_0_Matrix_training_\bin\Debug\2_0_Matrix_training_.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\2_0_Matrix_training_\obj\Debug\2_0_Matrix_training_.csprojResolveAssemblyReference.cache

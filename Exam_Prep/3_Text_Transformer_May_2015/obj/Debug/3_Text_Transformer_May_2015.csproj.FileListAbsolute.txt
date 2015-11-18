@@ -1,0 +1,6 @@
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Exam_Prep\3_Text_Transformer_May_2015\bin\Debug\3_Text_Transformer_May_2015.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Exam_Prep\3_Text_Transformer_May_2015\bin\Debug\3_Text_Transformer_May_2015.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Exam_Prep\3_Text_Transformer_May_2015\bin\Debug\3_Text_Transformer_May_2015.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Exam_Prep\3_Text_Transformer_May_2015\obj\Debug\3_Text_Transformer_May_2015.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Exam_Prep\3_Text_Transformer_May_2015\obj\Debug\3_Text_Transformer_May_2015.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\Exam_Prep\3_Text_Transformer_May_2015\obj\Debug\3_Text_Transformer_May_2015.pdb

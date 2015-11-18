@@ -1,0 +1,6 @@
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_2_Matrix_SUM\bin\Debug\Hmwrk_2_2_Matrix_SUM.exe.config
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_2_Matrix_SUM\bin\Debug\Hmwrk_2_2_Matrix_SUM.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_2_Matrix_SUM\bin\Debug\Hmwrk_2_2_Matrix_SUM.pdb
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_2_Matrix_SUM\obj\Debug\Hmwrk_2_2_Matrix_SUM.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_2_Matrix_SUM\obj\Debug\Hmwrk_2_2_Matrix_SUM.exe
+E:\Projects\Visual Studio 2013\Projects\Adv_CSharp_homework\2_Mult- Arrays, Sets, Dictionaries\Adv_CSharp_Hmwrk_2\Hmwrk_2_2_Matrix_SUM\obj\Debug\Hmwrk_2_2_Matrix_SUM.pdb
